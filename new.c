@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("Git Tut");
+    printf("Git Tut !!!");
     return 0;
 }
